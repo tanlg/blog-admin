@@ -1,7 +1,7 @@
 ---
 title: TypeScript————类型相关总结
 date: 2020-01-20 14:04:59
-tags: TypeScript
+tags: JavaScript
 ---
 
 ### 1. interface 和 type

@@ -1,7 +1,7 @@
 ---
 title: TypeScript封装的一个fetch包
 date: 2019-8-30 21:06:19
-tags: moka
+tags: JavaScript
 ---
 
 # 自己封了个 fetch ，总结一下几个关键点
