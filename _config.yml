@@ -58,7 +58,7 @@ use_date_for_updated: false
 per_page: 10
 pagination_dir: page
 
-theme: Hacker
+theme: cafe
 
 deploy:
   type: git
